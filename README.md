@@ -27,9 +27,11 @@
 4 задание 
 ![Снимок экрана 2024-12-13 030751](https://github.com/user-attachments/assets/c3f4ab41-a572-40c4-b762-4fbfa21e82e2)
 
-5 задание   
+5 задание  
+
 ![Снимок экрана 2024-12-13 032105](https://github.com/user-attachments/assets/e70af210-b98a-4d97-97b0-5591d70cdf10)  
 docker-compose.yaml  
+
 ![Снимок экрана 2024-12-13 032105](https://github.com/user-attachments/assets/47403271-c342-4902-b344-4b81f5a2ffed)  
 compose.yaml  
 
