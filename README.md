@@ -1,10 +1,11 @@
 # Лабараторная работа №3
-1 задание - [ссылка на образ](https://hub.docker.com/r/acoola308/custom-nginx) 
+## 1 задание  
+[ссылка на образ](https://hub.docker.com/r/acoola308/custom-nginx) 
 
-2 задание 
+## 2 задание   
 ![Снимок экрана 2024-12-13 003242](https://github.com/user-attachments/assets/c1c8b240-c52a-42e7-97e6-7155d7d79f60)
 
-3 задание 
+## 3 задание   
 ![Снимок экрана 2024-12-13 011135](https://github.com/user-attachments/assets/94f02d70-9256-4a25-9193-eeed5a96693d)
 контейнер остановился потому что
 
@@ -24,10 +25,10 @@
 ![Снимок экрана 2024-12-13 014908](https://github.com/user-attachments/assets/9ae0de10-c5f0-4a77-adb3-ce47afe7a84f)
 запускаем докер службу и контейнер, смотрим список работающих контейнеров, видим что всё работает. удаляем контейнер без его остановки с помощью параметра rm -f
 
-4 задание 
+## 4 задание  
 ![Снимок экрана 2024-12-13 030751](https://github.com/user-attachments/assets/c3f4ab41-a572-40c4-b762-4fbfa21e82e2)
 
-5 задание  
+## 5 задание  
 
 ![Снимок экрана 2024-12-13 032105](https://github.com/user-attachments/assets/e70af210-b98a-4d97-97b0-5591d70cdf10)  
 docker-compose.yaml  
