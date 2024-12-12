@@ -39,16 +39,12 @@ compose.yaml
 ![Снимок экрана 2024-12-13 033139](https://github.com/user-attachments/assets/3d0b141e-8c6b-4aed-a42e-2f8696cd25bc)
 Если существуют оба файла compose.yaml и docker-compose.yaml, Compose предпочитает канонический compose.yaml
 
-![Снимок экрана 2024-12-13 045437](https://github.com/user-attachments/assets/8872d5d1-d042-4656-815c-3bd289fc96c5)  
-
-
-
-
 ![Снимок экрана 2024-12-13 034232](https://github.com/user-attachments/assets/2d6d3243-2eac-45db-8de7-f9160675310f)  
 отредактировал compose.yaml, чтобы он запускал вместе с docker-compose.yaml
 
 ![Снимок экрана 2024-12-13 044333](https://github.com/user-attachments/assets/47bcbab5-3307-46f3-866a-27be2972cb86)
 залил custom-nginx в локальное registry
+![Снимок экрана 2024-12-13 045437](https://github.com/user-attachments/assets/8872d5d1-d042-4656-815c-3bd289fc96c5)  
 ![Снимок экрана 2024-12-13 045750](https://github.com/user-attachments/assets/0faf58b6-0a51-438b-b081-50af886a22f8)  
 процесс деплоя компоуза
 
