@@ -49,4 +49,11 @@ compose.yaml
 ![Снимок экрана 2024-12-13 045750](https://github.com/user-attachments/assets/0faf58b6-0a51-438b-b081-50af886a22f8)  
 процесс деплоя компоуза
 
+![Снимок экрана 2024-12-13 051244](https://github.com/user-attachments/assets/27562d1c-1279-424b-b9d8-58cc43b0b956)
+удалил compose.yaml
+
+![Снимок экрана 2024-12-13 051212](https://github.com/user-attachments/assets/5a7ebb63-a584-44ad-aad9-956c3ff2b88f)
+
+
+
 
