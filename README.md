@@ -29,9 +29,9 @@
 
 5 задание   
 ![Снимок экрана 2024-12-13 032105](https://github.com/user-attachments/assets/e70af210-b98a-4d97-97b0-5591d70cdf10)  
-docker-compose.yaml
+docker-compose.yaml  
 ![Снимок экрана 2024-12-13 032105](https://github.com/user-attachments/assets/47403271-c342-4902-b344-4b81f5a2ffed)  
-compose.yaml
+compose.yaml  
 
 ![Снимок экрана 2024-12-13 033139](https://github.com/user-attachments/assets/3d0b141e-8c6b-4aed-a42e-2f8696cd25bc)
 Если существуют оба файла compose.yaml и docker-compose.yaml, Compose предпочитает канонический compose.yaml
