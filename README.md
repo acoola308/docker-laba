@@ -27,4 +27,11 @@
 4 задание 
 ![Снимок экрана 2024-12-13 030751](https://github.com/user-attachments/assets/c3f4ab41-a572-40c4-b762-4fbfa21e82e2)
 
+5 задание 
+
+![Снимок экрана 2024-12-13 032105![Снимок экрана 2024-12-13 032206](https://github.com/user-attachments/assets/e70af210-b98a-4d97-97b0-5591d70cdf10)
+![Снимок экрана 2024-12-13 032206](https://github.com/user-attachments/assets/569d082c-a168-44f2-b281-f58360b57e58)
+
+![Снимок экрана 2024-12-13 033139](https://github.com/user-attachments/assets/3d0b141e-8c6b-4aed-a42e-2f8696cd25bc)
+
 
