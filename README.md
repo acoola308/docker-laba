@@ -44,6 +44,7 @@ compose.yaml
 
 ![Снимок экрана 2024-12-13 044333](https://github.com/user-attachments/assets/47bcbab5-3307-46f3-866a-27be2972cb86)
 залил custom-nginx в локальное registry
+
 ![Снимок экрана 2024-12-13 045437](https://github.com/user-attachments/assets/8872d5d1-d042-4656-815c-3bd289fc96c5)  
 ![Снимок экрана 2024-12-13 045750](https://github.com/user-attachments/assets/0faf58b6-0a51-438b-b081-50af886a22f8)  
 процесс деплоя компоуза
