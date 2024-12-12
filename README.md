@@ -13,3 +13,11 @@
 
 ![Снимок экрана 2024-12-13 012721](https://github.com/user-attachments/assets/d63906a0-8368-4c9c-b011-23e3605c0ef2)  
 кратко описал суть проблемы
+
+![Снимок экрана 2024-12-13 015039](https://github.com/user-attachments/assets/bfe0e7d0-a97b-4731-8cbc-0ac7db349c89)  
+выявляем полный идентификатор,  останавливаем наш контейнер и докер службу, редактируем файлы контейнера hostcongig.json и config.v2.json, чтобы он находился на 81 порту, и наш хост ссылался на него
+
+![Снимок экрана 2024-12-13 013955](https://github.com/user-attachments/assets/4be2ab58-aa5f-4b30-8dfa-b9c5eaab6c51)
+![Снимок экрана 2024-12-13 014239](https://github.com/user-attachments/assets/cdcfaa3b-4850-4c0f-b20b-a955779c91ed)
+![Снимок экрана 2024-12-13 014258](https://github.com/user-attachments/assets/df8e868c-ce80-4216-afa4-e467998c39fc)
+
